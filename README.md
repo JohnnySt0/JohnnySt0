@@ -4,5 +4,6 @@
 - 🎮 Part Time Gamer
 
 ## 📫 Keep In Touch
-- [LinkedIn]([https://linkedin.com/in/username](https://www.linkedin.com/in/ioannis-stentoumis-7383a73a0/))
+- [LinkedIn]([https://linkedin.com/in/ioannis-stentoumis)
 - [Discord](https://discordapp.com/users/johnnysten)
+
